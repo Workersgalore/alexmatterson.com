@@ -1,13 +1,16 @@
 body {background-color: black;
 background-image: url(https://i.imgur.com/bpKkmk8.jpeg);
 background-repeat: no-repeat;
+background-position: 75%;
 background-size: cover;}
 p {color:white ;
 font-family: 'Times New Roman', Times, serif;
-font-size: 150px;}
+font-size: 150px;
+margin-top: -20px;}
 
 a {color: white;
 margin-left: 50px;
-padding-top: 100px;
+margin-top: 100px;
+padding-top: 200px;
 font-family:'Times New Roman', Times, serif;
 font-size: 150px;}

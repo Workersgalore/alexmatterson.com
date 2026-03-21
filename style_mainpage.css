@@ -1,0 +1,13 @@
+body {background-color: black;
+background-image: url(https://i.imgur.com/bpKkmk8.jpeg);
+background-repeat: no-repeat;
+background-size: cover;}
+p {color:white ;
+font-family: 'Times New Roman', Times, serif;
+font-size: 150px;}
+
+a {color: white;
+margin-left: 50px;
+padding-top: 100px;
+font-family:'Times New Roman', Times, serif;
+font-size: 150px;}

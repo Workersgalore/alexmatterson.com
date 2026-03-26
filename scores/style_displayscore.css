@@ -1,0 +1,10 @@
+body {background-color: #ffffff;}
+
+p{display: inline;
+ color: white;}
+
+a {display: inline;
+    color: rgb(0, 0, 0);
+
+font-family:'Times New Roman', Times, serif;
+font-size: 10vw;}
